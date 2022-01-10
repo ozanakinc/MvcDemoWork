@@ -1,0 +1,13 @@
+C:\Users\ozan.akinci\source\repos\MvcProje\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\ozan.akinci\source\repos\MvcProje\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\ozan.akinci\source\repos\MvcProje\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ozan.akinci\source\repos\MvcProje\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\ozan.akinci\source\repos\MvcProje\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\ozan.akinci\source\repos\MvcProje\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ozan.akinci\source\repos\MvcProje\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\ozan.akinci\source\repos\MvcProje\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\ozan.akinci\source\repos\MvcProje\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\ozan.akinci\source\repos\MvcProje\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ozan.akinci\source\repos\MvcProje\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\ozan.akinci\source\repos\MvcProje\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
+C:\Users\ozan.akinci\source\repos\MvcProje\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wpnOlZjnEP3IR9cgHDNftd/2YRaxs36jKwhRv8q2K54HtemyKvIyKkkPaPOapRLYX/MNPbKcXa/Gm/Sw2/CxaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ozan.akinci\\source\\repos\\MvcProje\\DataAccessLayer\\DataAccessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ozan.akinci\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512"
+  ],
+  "logs": []
+}

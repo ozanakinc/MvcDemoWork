@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TH9ljPE6GE4BcumTQa5K9pApEGnQVAlgGP6k5dvdnELpLVycbPl/najhMfQQvZgdWQvEJYSSkpaZoqBAEVPuEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ozan.akinci\\source\\repos\\MvcProje\\BusinessLayer\\BusinessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ozan.akinci\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512"
+  ],
+  "logs": []
+}

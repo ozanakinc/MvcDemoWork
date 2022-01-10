@@ -1,0 +1,127 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ozan.akinci\\source\\repos\\MvcProje\\BusinessLayer\\BusinessLayer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ozan.akinci\\source\\repos\\MvcProje\\BusinessLayer\\BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ozan.akinci\\source\\repos\\MvcProje\\BusinessLayer\\BusinessLayer.csproj",
+        "projectName": "BusinessLayer",
+        "projectPath": "C:\\Users\\ozan.akinci\\source\\repos\\MvcProje\\BusinessLayer\\BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\ozan.akinci\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ozan.akinci\\source\\repos\\MvcProje\\BusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\ozan.akinci\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\ozan.akinci\\source\\repos\\MvcProje\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\ozan.akinci\\source\\repos\\MvcProje\\DataAccessLayer\\DataAccessLayer.csproj"
+              },
+              "C:\\Users\\ozan.akinci\\source\\repos\\MvcProje\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\ozan.akinci\\source\\repos\\MvcProje\\EntityLayer\\EntityLayer.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\ozan.akinci\\source\\repos\\MvcProje\\DataAccessLayer\\DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ozan.akinci\\source\\repos\\MvcProje\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectName": "DataAccessLayer",
+        "projectPath": "C:\\Users\\ozan.akinci\\source\\repos\\MvcProje\\DataAccessLayer\\DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\ozan.akinci\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ozan.akinci\\source\\repos\\MvcProje\\DataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\ozan.akinci\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\ozan.akinci\\source\\repos\\MvcProje\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\ozan.akinci\\source\\repos\\MvcProje\\EntityLayer\\EntityLayer.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\ozan.akinci\\source\\repos\\MvcProje\\EntityLayer\\EntityLayer.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ozan.akinci\\source\\repos\\MvcProje\\EntityLayer\\EntityLayer.csproj",
+        "projectName": "EntityLayer",
+        "projectPath": "C:\\Users\\ozan.akinci\\source\\repos\\MvcProje\\EntityLayer\\EntityLayer.csproj"
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}
